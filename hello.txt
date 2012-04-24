@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 no ...Hello every one, I am david 
+=======
+Hello every one, I am david 
+gokul adding some change.
+>>>>>>> a9a98e98b61b6553f478257b755ab78043b36615
